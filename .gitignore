@@ -1,0 +1,10 @@
+obj
+bin
+appsettings.json
+/.vs/skinet/v16/Server/sqlite3/storage.ide-wal
+/.vs/skinet/v16/Server/sqlite3/storage.ide-shm
+/.vs/skinet/v16/Server/sqlite3/storage.ide
+/.vs/skinet/v16/Server/sqlite3/db.lock
+/.vs/skinet/v16/.suo
+/.vs/skinet/DesignTimeBuild/.dtbcache
+*.db
